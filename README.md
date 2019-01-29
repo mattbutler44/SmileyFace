@@ -1,5 +1,12 @@
-This program creates smiley faces to be manipulated by the user.
-There are a handful of ways the faces can be changed.
-The faces can be manipulated by the mouse and keyboard.
-This was made in a programming class.
-I know, applets are outdated but that's what the class used.
+Compile the .java files on your computer.
+(Use an IDE, or command line)
+
+For Windows command line, cd <directory here> <enter> javac *.java
+
+I made this project in a programming class.
+
+This program creates smiley faces for the user to manipulate.
+There are a handful of attributes to change, and a handful of ways to change them.
+
+The main focus of this project is the use of action events (mouse, keyboard) and the use of MVC (model, view, control). 
+Exception handling, arrays, loops, primitive data types, constants, and randomization, are also used.
