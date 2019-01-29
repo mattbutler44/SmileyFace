@@ -9,4 +9,4 @@ This program creates smiley faces for the user to manipulate.
 There are a handful of attributes to change, and a handful of ways to change them.
 
 The main focus of this project is the use of action events (mouse, keyboard) and the use of MVC (model, view, control). 
-Exception handling, arrays, loops, primitive data types, constants, and randomization, are also used.
+Exception handling, responding to user input, arrays, loops, primitive data types, constants, and randomization, are also used.
