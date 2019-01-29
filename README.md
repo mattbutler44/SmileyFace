@@ -1,7 +1,7 @@
 Compile the .java files on your computer.
 (Use an IDE, or command line)
 
-For Windows command line, cd <directory here> <enter> javac *.java
+For Windows command line, cd {directory here} {enter} javac *.java
 
 I made this project in a programming class.
 
